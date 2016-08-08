@@ -9,8 +9,8 @@ And this is not the only pitfall on the way to using metrics and modeling effect
 
 How can we find a path to that utopia where all the players in the healthcare marketplace stop being focused on externalizing their own costs onto others or to the society and instead focus on the overall system effectiveness and efficiency? In response to these pitfalls of human nature and the non-intuitiveness of complex systems, I am tempted to start a list of things to keep in mind or a ‘pattern language’ of complex systems (I am certain I am not being original here, but do not know who to attribute...).
 <p>One might be that when analyzing a complex system be careful of common 'human' tendencies, tendencies that bias us in predictable ways, like:
-               - assuming the shape of the solution instead of allowing the solution to  emerge from the shape of the problem (please ask me about the story of maze -solving and Connection Machines)
-               - only being able to intuit linear trends<br>
++++               - assuming the shape of the solution instead of allowing the solution to  emerge from the shape of the problem (please ask me about the story of maze -solving and Connection Machines)+++
+*               - only being able to intuit linear trends*
                - only being comfortable with categorical judgments, rather than where category membership is probabilistic<br>
 Another might be that whenever possible do not add another layer of complexity to solve a problem at a lower level
 And so on....
