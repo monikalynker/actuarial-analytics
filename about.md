@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About Us
+title: The Team
 permalink: /about/
 ---
 
+![Picture of Ali Ishaq](https://octodex.github.com/images/yaktocat.png)
 Ali Ishaq, FCAS, FSA, MAAA <br>
 Principal<br>
 +1.360.339.5867 / [ai@actuarial-analytics.com](mailto:ai@actuarial-analytics.com)
