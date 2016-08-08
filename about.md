@@ -4,7 +4,7 @@ title: The Team
 permalink: /about/
 ---
 
-![Ali's Profile Picture](/images/ali.jpg)
+![Ali's Profile Picture](/images/profilepic-ali.jpg)
 Ali Ishaq, FCAS, FSA, MAAA <br>
 Principal<br>
 +1.360.339.5867 / [ai@actuarial-analytics.com](mailto:ai@actuarial-analytics.com)
