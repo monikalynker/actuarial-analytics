@@ -4,9 +4,9 @@ title: The Team
 permalink: /about/
 ---
 
-| ![Ali's Profile Picture](/images/profilepic-ali.png) | Ali Ishaq, FCAS, FSA, MAAA <br>
-Principal<br>
-+1.360.339.5867 / [ai@actuarial-analytics.com](mailto:ai@actuarial-analytics.com) |
+| - | - |
+|---|---|
+|<img src="/images/profilepic-ali.png" width="100">| Ali Ishaq, FCAS, FSA, MAAA  Principal +1.360.339.5867 / [ai@actuarial-analytics.com](mailto:ai@actuarial-analytics.com) |
 
 Ali Ishaq works at the intersection of predictive modeling and actuarial science in healthcare, insurance, and regulation. Most recently he was the chief actuary for the Health Care Authority of Washington State where, among other things, he created a quality improvement model that aligns the costs and quality incentives in that State’s first public employees’ accountable care program. 
 
