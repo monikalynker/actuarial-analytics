@@ -9,7 +9,8 @@ permalink: /about/
       <TD><img src="/images/profilepic-ali.png" width="100"></TD>
       <TD>Ali Ishaq, FCAS, FSA, MAAA<br>
       Principal<br> 
-      +1.360.339.5867 / [ai@actuarial-analytics.com](mailto:ai@actuarial-analytics.com) </TD>
+      +1.360.339.5867<br>
+      <a href="mailto:ai@actuarial-analytics.com" target="_top">ai@actuarial-analytics.com</a> </TD>
    </TR>
 </TABLE>
 
