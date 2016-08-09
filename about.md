@@ -12,6 +12,10 @@ Ali Ishaq works at the intersection of predictive modeling and actuarial science
 
 He is the principal and founder at Actuarial Analytics, a consultancy with the mission of improving healthcare and other complex systems through a synthesis of predictive modeling and actuarial science.
 
+| - | - |
+|---|---|
+|<img src="/images/Steve2010Copy.jpg" width="100">| Steve Byers +1.360.259.0340 / www.helpinghumansystems.com /Blog link: http:/helpinghumansystems.com/wordpress |
+
 Steve Byers<br>
 +1.360.259.0340 / www.helpinghumansystems.com /Blog link: http:/helpinghumansystems.com/wordpress
 
