@@ -9,7 +9,7 @@ permalink: /about/
       <TD><img src="/images/profilepic-ali.png" width="100"></TD>
       <TD>Ali Ishaq, FCAS, FSA, MAAA<br>
       Principal<br> 
-      +1.360.339.5867<br>
+      +1.574.210.3110<br>
       <a href="mailto:ai@actuarial-analytics.com" target="_top">ai@actuarial-analytics.com</a> </TD>
    </TR>
 </TABLE>
@@ -17,6 +17,41 @@ permalink: /about/
 Ali Ishaq works at the intersection of predictive modeling and actuarial science in healthcare, insurance, and regulation. Most recently he was the chief actuary for the Health Care Authority of Washington State where, among other things, he created a quality improvement model that aligns the costs and quality incentives in that State’s first public employees’ accountable care program. 
 
 He is the principal and founder at Actuarial Analytics, a consultancy with the mission of improving healthcare and other complex systems through a synthesis of predictive modeling and actuarial science.
+
+
+<TABLE>
+   <TR>
+      <TD><img src="/images/profilepic-peter.png" width="100"></TD>
+      <TD>Peter Martynowych, Ph.D<br>
+      Principal<br> 
+      +1.206.000.0000<br>
+      <a href="mailto:pm@actuarial-analytics.com" target="_top">pm@actuarial-analytics.com</a> </TD>
+   </TR>
+</TABLE>
+
+Dr. Peter Martynowych, thought leader in organizational development and leadership, contributes breakthrough strategies that allow organizations to liberate the creative solutions inherent in generative groups. In his research and action, Peter has demonstrated that with a new perspective and actionable framework, organizations will flourish far beyond their original expectations. When a leadership team flourishes, its members and employees are more fulfilled and committed to each other and to the organization’s success.
+
+Dr. Peter Martynowych holds both his Doctorate, with distinction, and Master’s degrees from Harvard University. His original research is a ground-breaking contribution to the fields of leadership, group process, and adult development. Peter has taught advanced Leadership Curriculum at Harvard University, Antioch Graduate School of Management, and Leadership Institute of Seattle, among others. In addition to his founding Phase FIVE, Dr. Martynowych maintains a private leadership advising practice that addresses organizational and personal challenges to produce successful and lasting change. He is conducting research for an upcoming book. 
+
+
+
+<TABLE>
+   <TR>
+      <TD><img src="/images/profilepic-leslie.png" width="100"></TD>
+      <TD>Leslie McGovern, M.A<br>
+      Principal<br> 
+      +1.206.000.0000<br>
+      <a href="mailto:lm@actuarial-analytics.com" target="_top">lm@actuarial-analytics.com</a> </TD>
+   </TR>
+</TABLE>
+
+Leslie McGovern successfully partners with organizations and individuals to create effective, collaborative leadership across the company. By promoting learning organizations that create environments where differing perspectives are valued and used, powerful partnerships are forged, there is much greater access to the talents and resources that often lie untapped, the organization and its members are fortified to meet the most pressing challenges.
+
+Leslie assists organizations to foster individuals and teams who continuously improve their performance and outcomes. Her experience in multi-cultural environments, plus her focus on women in leadership positions, has had a powerful impact on a diverse range of organizations including: the Washington State Labor Council, Microsoft, Rebound, New Community, Atlantic Philanthropies, Anne Frank & Friends Coalition, Northwest Coalition for Human Dignity, Army Corps of Engineers, Boeing, Amazon, European/American Human Rights, Japanese Business Community, and more.
+
+Leslie earned her Master’s Degree in Human and Organizational Development from Harvard University, has taught at Harvard, Northwest School for the Arts, Seattle Central Community College, and has delivered seminars internationally addressing Leadership and Change. Founder and principal at Phase FIVE, she is dedicated to organizations succeeding beyond what is held possible. 
+
+Leslie is also the co-founder and editor of a blog which brings together women's collective experience, knowledge, and insight to help create a new approach to leadership, Leadership: the Women, and is conducting research for an upcoming book
 
 | - | - |
 |---|---|
